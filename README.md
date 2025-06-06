@@ -6,7 +6,8 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 - 🌱 Learning: React, TypeScript, MLOps, Deep Learning
 - 🎯 Goal: Fullstack proficiency → AI Engineering with real-world impact
 - 💬 Ask me about: Back-End (Java, Python), AI/ML, Databases, System Design
-- 📫 Reach me at: [your.email@example.com]
+- 📫 Reach me at: duongdevpython@gmail.com
+- 🧠 Fun fact: I spend more time debugging than I do sleeping.
 
 ---
 
