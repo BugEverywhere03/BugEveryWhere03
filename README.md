@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Nguyễn Duy Dương!
 
-I'm a passionate **Back-End Developer** and **AI Enthusiast** who loves building scalable systems and exploring the boundaries of machine learning.
+I'm a passionate developer on a journey to become a **Fullstack Engineer**, with a long-term vision of mastering **Artificial Intelligence** and becoming an **AI Engineer**.
 
-- 🔭 Currently working on: [Your Project Name] – [Short description or tech stack]
-- 🌱 Currently learning: [New tech you're exploring, e.g. Rust, LangChain, MLOps...]
-- 💬 Ask me about: Java, Python, Spring Boot, AI/ML, REST APIs, SQL/NoSQL
+- 🔭 Currently building fullstack apps using Java, Spring Boot, and modern front-end frameworks
+- 🌱 Learning: React, TypeScript, MLOps, Deep Learning
+- 🎯 Goal: Fullstack proficiency → AI Engineering with real-world impact
+- 💬 Ask me about: Back-End (Java, Python), AI/ML, Databases, System Design
 - 📫 Reach me at: [your.email@example.com]
-- 🧠 Fun fact: I once [fun or geeky fact]
 
 ---
 
@@ -16,13 +16,19 @@ I'm a passionate **Back-End Developer** and **AI Enthusiast** who loves building
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 
 **Frameworks & Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 **AI/ML**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
@@ -31,16 +37,8 @@ I'm a passionate **Back-End Developer** and **AI Enthusiast** who loves building
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-
----
-
 ## 🔗 Let's Connect!
-
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-profile) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
