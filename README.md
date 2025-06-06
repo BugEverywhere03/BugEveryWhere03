@@ -39,7 +39,7 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 ---
 
 ## 🔗 Let's Connect!
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]((https://www.facebook.com/duyduong.nguyen.71465)) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/duyduong.nguyen.71465) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
