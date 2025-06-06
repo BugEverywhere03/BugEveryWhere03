@@ -5,7 +5,7 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 - 🔭 Currently building fullstack apps using Java, Spring Boot, and modern front-end frameworks
 - 🌱 Learning: React, TypeScript, MLOps, Deep Learning
 - 🎯 Goal: Fullstack proficiency → AI Engineering with real-world impact
-- 💬 Ask me about: Back-End (Java, Python), AI/ML, Databases, System Design
+- 💬 Ask me about: Back-End (Java, Python), AI/ML, Databases, Data Structure And Algorthims
 - 📫 Reach me at: duongdevpython@gmail.com
 - 🧠 Fun fact: I spend more time debugging than I do sleeping.
 
@@ -39,7 +39,7 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 ---
 
 ## 🔗 Let's Connect!
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/your-profile) 
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)]((https://www.facebook.com/duyduong.nguyen.71465)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
