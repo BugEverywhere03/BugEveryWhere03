@@ -23,6 +23,7 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 
 **Frameworks & Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![NodeJs](https://img.shields.io/badge/Node_JS-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
