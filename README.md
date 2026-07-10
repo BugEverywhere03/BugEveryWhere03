@@ -5,7 +5,7 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 - 🔭 Currently building fullstack apps using Java, Spring Boot, and modern front-end frameworks
 - 🌱 Learning: React, TypeScript, MLOps, Deep Learning
 - 🎯 Goal: Fullstack proficiency → AI Engineering with real-world impact
-- 💬 Ask me about: Back-End (Java, Python), Databases, Data Structure And Algorthims
+- 💬 Ask me about: Back-End (Java), Databases, Data Structure And Algorthims
 - 📫 Reach me at: duongdevpython@gmail.com
 - 🧠 Fun fact: I spend more time debugging than I do sleeping.
 
@@ -21,11 +21,9 @@ I'm a passionate developer on a journey to become a **Fullstack Engineer**, with
 
 **Frameworks & Tools**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-66BB6A?style=flat&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
